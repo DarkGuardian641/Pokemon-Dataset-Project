@@ -1,2 +1,1 @@
-# Pokemon-project
- Working on Pokemon dataset using Pandas
+# Practicing filtering sorting with Pokemon
